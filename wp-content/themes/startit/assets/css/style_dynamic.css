@@ -1,0 +1,232 @@
+/* generated in /home/annegithu/public_html/nairobi-place.com/wp-content/themes/startit/assets/custom-styles/general-custom-styles.php qode_startit_design_styles function */
+.qodef-preload-background { background-image: url(wp-content/themes/startit/assets/img/preload_pattern.png) !important;}
+
+/* generated in /home/annegithu/public_html/nairobi-place.com/wp-content/themes/startit/assets/custom-styles/general-custom-styles.php qode_startit_design_styles function */
+.qodef-boxed .qodef-wrapper { background-attachment: fixed;}
+
+/* generated in /home/annegithu/public_html/nairobi-place.com/wp-content/themes/startit/framework/modules/contactform7/custom-styles/contact-form.php qode_startit_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz { border-color: rgba(129, 215, 66, 1);}
+
+/* generated in /home/annegithu/public_html/nairobi-place.com/wp-content/themes/startit/framework/modules/contactform7/custom-styles/contact-form.php qode_startit_contact_form7_focus_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz:focus { border-color: rgba(129, 215, 66, 1);}
+
+/* generated in /home/annegithu/public_html/nairobi-place.com/wp-content/themes/startit/framework/modules/header/custom-styles/header.inc qode_startit_header_standard_menu_area_styles function */
+.qodef-header-standard .qodef-page-header .qodef-menu-area { background-color: rgba(255, 255, 255, 10000);}
+
+/* generated in /home/annegithu/public_html/nairobi-place.com/wp-content/themes/startit/framework/modules/header/custom-styles/header.inc qode_startit_sticky_header_styles function */
+.qodef-main-menu.qodef-sticky-nav > ul > li > a { color: #000000;}
+
+/* generated in /home/annegithu/public_html/nairobi-place.com/wp-content/themes/startit/framework/modules/header/custom-styles/header.inc qode_startit_sticky_header_styles function */
+.qodef-main-menu.qodef-sticky-nav > ul > li:hover > a, .qodef-main-menu.qodef-sticky-nav > ul > li.qodef-active-item:hover > a, body:not(.qodef-menu-item-first-level-bg-color) .qodef-main-menu.qodef-sticky-nav > ul > li:hover > a, body:not(.qodef-menu-item-first-level-bg-color) .qodef-main-menu.qodef-sticky-nav > ul > li.qodef-active-item:hover > a { color: #81d742;}
+
+            .qodef-main-menu.qodef-default-nav > ul > li > a,
+            .qodef-page-header #lang_sel > ul > li > a,
+            .qodef-page-header #lang_sel_click > ul > li > a,
+            .qodef-page-header #lang_sel ul > li:hover > a{
+             color: #000000;                                                                                     }
+        
+        
+                    .qodef-main-menu.qodef-default-nav > ul > li:hover > a,
+            .qodef-main-menu.qodef-default-nav > ul > li.qodef-active-item:hover > a,
+            body:not(.qodef-menu-item-first-level-bg-color) .qodef-main-menu.qodef-default-nav > ul > li:hover > a,
+            body:not(.qodef-menu-item-first-level-bg-color) .qodef-main-menu.qodef-default-nav > ul > li.qodef-active-item:hover > a,
+            .qodef-page-header #lang_sel ul li a:hover,
+            .qodef-page-header #lang_sel_click > ul > li a:hover{
+            color: #81d742 !important;
+            }
+        
+                    .qodef-main-menu.qodef-default-nav > ul > li.qodef-active-item > a,
+            body:not(.qodef-menu-item-first-level-bg-color) .qodef-main-menu.qodef-default-nav > ul > li.qodef-active-item > a{
+            color: #ffffff;
+            }
+        
+        
+                    .qodef-main-menu > ul > li > a span.item_outer{
+             background-color: #c1c1c1; 
+                        }
+        
+        
+        
+        
+                            .qodef-main-menu> ul > li:hover > a .item_outer:before,
+                .qodef-main-menu> ul > li.qodef-active-item:hover > a .item_outer:before,
+                .qodef-main-menu > ul > li > a .item_outer:before{
+                background-color: #ffffff;
+                }
+                    
+                                    .qodef-main-menu > ul > li.qodef-active-item > a span.item_outer:before {
+                background-color: #81d742;
+                }
+                    
+
+                    .light .qodef-main-menu.qodef-default-nav > ul > li:hover > a,
+            .light .qodef-main-menu.qodef-default-nav > ul > li.qodef-active-item:hover > a{
+            color: #81d742 !important;
+            }
+        
+                    .light .qodef-main-menu.qodef-default-nav > ul > li.qodef-active-item > a{
+            color: #ffffff !important;
+            }
+        
+                    .dark .qodef-main-menu.qodef-default-nav > ul > li:hover > a,
+            .dark .qodef-main-menu.qodef-default-nav > ul > li.qodef-active-item:hover > a{
+            color: #81d742 !important;
+            }
+        
+                    .dark .qodef-main-menu.qodef-default-nav > ul > li.qodef-active-item > a{
+            color: #ffffff;
+            }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+        
+            .qodef-drop-down .second .inner ul,
+            .qodef-drop-down .second .inner ul li ul,
+            .shopping_cart_dropdown,
+            li.narrow .second .inner ul,
+            .qodef-main-menu.qodef-default-nav #lang_sel ul ul,
+            .qodef-main-menu.qodef-default-nav #lang_sel_click  ul ul,
+            .header-widget.widget_nav_menu ul ul,
+            .qodef-drop-down .wide.wide_background .second{
+            background-color: #ffffff;
+            background-color: rgba(255,255,255,1);
+            }
+
+        
+        
+                                .qodef-drop-down .narrow .second .inner ul li ul,
+            body.qodef-slide-from-bottom .qodef-drop-down .narrow .second .inner ul li:hover ul,
+            body.qodef-slide-from-top .narrow .second .inner ul li:hover ul{
+            top:-15px;
+            }
+
+        
+        
+                    .qodef-drop-down .second{
+            border-top: 0 !important;
+            }
+        
+                
+        
+
+        
+
+        
+                    .qodef-drop-down .second .inner>ul,
+            li.narrow .second .inner ul,
+            .qodef-drop-down .narrow .second .inner ul li ul{
+            border: none;
+            }
+
+            .qodef-drop-down .second .inner ul.right li ul{
+            margin-left: 0;
+            }
+
+        
+                    .qodef-drop-down .second .inner > ul > li > a,
+            .qodef-drop-down .second .inner > ul > li > h4,
+            .qodef-drop-down .wide .second .inner > ul > li > h4,
+            .qodef-drop-down .wide .second .inner > ul > li > a,
+            .qodef-drop-down .wide .second ul li ul li.menu-item-has-children > a,
+            .qodef-drop-down .wide .second .inner ul li.sub ul li.menu-item-has-children > a,
+            .qodef-drop-down .wide .second .inner > ul li.sub .flexslider ul li  h4 a,
+            .qodef-drop-down .wide .second .inner > ul li .flexslider ul li  h4 a,
+            .qodef-drop-down .wide .second .inner > ul li.sub .flexslider ul li  h4,
+            .qodef-drop-down .wide .second .inner > ul li .flexslider ul li  h4,
+            .qodef-main-menu.qodef-default-nav #lang_sel ul li li a,
+            .qodef-main-menu.qodef-default-nav #lang_sel_click ul li ul li a,
+            .qodef-main-menu.qodef-default-nav #lang_sel ul ul a,
+            .qodef-main-menu.qodef-default-nav #lang_sel_click ul ul a{
+             color: #000000;                                                                                                 }
+        
+                    .shopping_cart_dropdown ul li
+            .item_info_holder .item_left a,
+            .shopping_cart_dropdown ul li .item_info_holder .item_right .amount,
+            .shopping_cart_dropdown .cart_bottom .subtotal_holder .total,
+            .shopping_cart_dropdown .cart_bottom .subtotal_holder .total_amount{
+            color: #000000;
+            }
+        
+                    .qodef-drop-down .second .inner > ul > li:hover > a,
+            .qodef-drop-down .wide .second ul li ul li.menu-item-has-children:hover > a,
+            .qodef-drop-down .wide .second .inner ul li.sub ul li.menu-item-has-children:hover > a,
+            .qodef-main-menu.qodef-default-nav #lang_sel ul li li:hover a,
+            .qodef-main-menu.qodef-default-nav #lang_sel_click ul li ul li:hover a,
+            .qodef-main-menu.qodef-default-nav #lang_sel ul li:hover > a,
+            .qodef-main-menu.qodef-default-nav #lang_sel_click ul li:hover > a{
+            color: #81d742 !important;
+            }
+        
+                    .qodef-drop-down li:not(.wide) .second .inner > ul > li:hover{
+            background-color: #000000;
+            }
+        
+        
+        
+        
+        
+        
+                
+        
+                
+        /* generated in /home/annegithu/public_html/nairobi-place.com/wp-content/themes/startit/framework/modules/search/custom-styles/search.php qode_startit_search_opener_icon_colors function */
+.qodef-search-opener { color: #000000;}
+
+/* generated in /home/annegithu/public_html/nairobi-place.com/wp-content/themes/startit/framework/modules/search/custom-styles/search.php qode_startit_search_opener_icon_colors function */
+.qodef-search-opener:hover { color: #81d742;}
+
+/* generated in /home/annegithu/public_html/nairobi-place.com/wp-content/themes/startit/framework/modules/search/custom-styles/search.php qode_startit_search_opener_icon_colors function */
+.qodef-light-header .qodef-page-header > div:not(.qodef-sticky-header) .qodef-search-opener,
+			.qodef-light-header.qodef-header-style-on-scroll .qodef-page-header .qodef-search-opener,
+			.qodef-light-header .qodef-top-bar .qodef-search-opener { color: #000000 !important;}
+
+/* generated in /home/annegithu/public_html/nairobi-place.com/wp-content/themes/startit/framework/modules/search/custom-styles/search.php qode_startit_search_opener_icon_colors function */
+.qodef-light-header .qodef-page-header > div:not(.qodef-sticky-header) .qodef-search-opener:hover,
+			.qodef-light-header.qodef-header-style-on-scroll .qodef-page-header .qodef-search-opener:hover,
+			.qodef-light-header .qodef-top-bar .qodef-search-opener:hover { color: #81d742 !important;}
+
+/* generated in /home/annegithu/public_html/nairobi-place.com/wp-content/themes/startit/framework/modules/search/custom-styles/search.php qode_startit_search_opener_icon_colors function */
+.qodef-dark-header .qodef-page-header > div:not(.qodef-sticky-header) .qodef-search-opener,
+			.qodef-dark-header.qodef-header-style-on-scroll .qodef-page-header .qodef-search-opener,
+			.qodef-dark-header .qodef-top-bar .qodef-search-opener { color: #000000 !important;}
+
+/* generated in /home/annegithu/public_html/nairobi-place.com/wp-content/themes/startit/framework/modules/search/custom-styles/search.php qode_startit_search_opener_icon_colors function */
+.qodef-dark-header .qodef-page-header > div:not(.qodef-sticky-header) .qodef-search-opener:hover,
+			.qodef-dark-header.qodef-header-style-on-scroll .qodef-page-header .qodef-search-opener:hover,
+			.qodef-dark-header .qodef-top-bar .qodef-search-opener:hover { color: #81d742 !important;}
+
+/* generated in /home/annegithu/public_html/nairobi-place.com/wp-content/themes/startit/framework/modules/sidearea/custom-styles/sidearea.php qode_startit_side_area_slide_from_right_type_style function */
+.qodef-side-menu-slide-from-right .qodef-side-menu { right: 35%;width: 35%;}
+
+/* generated in /home/annegithu/public_html/nairobi-place.com/wp-content/themes/startit/framework/modules/sidearea/custom-styles/sidearea.php qode_startit_side_area_slide_from_right_type_style function */
+.qodef-side-menu-slide-from-right .qodef-wrapper .qodef-cover { background-color: #c4c4c4;}
+
+/* generated in /home/annegithu/public_html/nairobi-place.com/wp-content/themes/startit/framework/modules/sidearea/custom-styles/sidearea.php qode_startit_side_area_slide_from_right_type_style function */
+.qodef-side-menu-slide-from-right.qodef-right-side-menu-opened .qodef-wrapper .qodef-cover { opacity: 0;}
+
+/* generated in /home/annegithu/public_html/nairobi-place.com/wp-content/themes/startit/framework/modules/sidearea/custom-styles/sidearea.php qode_startit_side_area_icon_color_styles function */
+a.qodef-side-menu-button-opener { color: #000000;}
+
+/* generated in /home/annegithu/public_html/nairobi-place.com/wp-content/themes/startit/framework/modules/sidearea/custom-styles/sidearea.php qode_startit_side_area_icon_color_styles function */
+a.qodef-side-menu-button-opener:hover { color: #81d742;}
+
+/* generated in /home/annegithu/public_html/nairobi-place.com/wp-content/themes/startit/framework/modules/sidearea/custom-styles/sidearea.php qode_startit_side_area_icon_color_styles function */
+.qodef-light-header .qodef-page-header > div:not(.qodef-sticky-header) .qodef-side-menu-button-opener,
+			.qodef-light-header.qodef-header-style-on-scroll .qodef-page-header .qodef-side-menu-button-opener,
+			.qodef-light-header .qodef-top-bar .qodef-side-menu-button-opener { color: #000000 !important;}
+
+/* generated in /home/annegithu/public_html/nairobi-place.com/wp-content/themes/startit/framework/modules/sidearea/custom-styles/sidearea.php qode_startit_side_area_icon_color_styles function */
+.qodef-light-header .qodef-page-header > div:not(.qodef-sticky-header) .qodef-side-menu-button-opener:hover,
+			.qodef-light-header.qodef-header-style-on-scroll .qodef-page-header .qodef-side-menu-button-opener:hover,
+			.qodef-light-header .qodef-top-bar .qodef-side-menu-button-opener:hover { color: #81d742 !important;}
+
